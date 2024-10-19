@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Asad-Mehmood4804
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Asad-Mehmood4804/Asad-Mehmood4804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Asad-Mehmood
+- 👀 I’m studying AI and game development at university
+- 🌱 I’m currently learning Unreal Engine, C++, and AI algorithms
+- 💞️ I’m looking to collaborate on AI-driven games and tech projects
+- 📫 How to reach me: asadmehmood4804@gmail.com
